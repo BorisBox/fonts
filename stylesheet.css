@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'zing_rust_demobase';
-    src: url('https://github.com/BorisBox/fonts/blob/master/zingrustdemo-base-webfont.woff2') format('woff2'),
-         url('https://github.com/BorisBox/fonts/blob/master/zingrustdemo-base-webfont.woff') format('woff');
+    src: url('https://ff.static.1001fonts.net/z/i/zing.rust-demo-base.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 
