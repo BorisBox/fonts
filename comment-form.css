@@ -1,0 +1,57 @@
+.comment-metadata, .comment-notes, img.avatar {
+	display:none!important;
+}
+
+.fn {
+	color:skyblue;
+}
+
+.says {
+	color:red;
+}
+
+#comments li {
+	margin-top: 20px;
+  margin-bottom: 20px;
+	color:white!important;
+	border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+  padding-left: 2%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  background-color: rgb(0,0,0,0.6);
+}
+
+#reply-title {
+	text-align:center;
+	color:white;
+}
+
+textarea#comment {
+    width: 60%;
+}
+
+.comment-form label {
+    width: 100%;
+    margin-left: 20%!important;
+}
+
+.comments-title {
+	 margin-left: 2%;
+}
+
+textarea#comment, input#author {
+    width: 60%;
+		margin:auto;
+}
+
+.comment-form label {
+    width: 100%;
+    margin-left: 20%!important;
+}
+
+p.form-submit {
+    margin: auto;
+    display: table;
+}
